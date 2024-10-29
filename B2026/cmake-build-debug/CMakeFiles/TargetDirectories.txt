@@ -1,0 +1,3 @@
+C:/Apps/WeclontCode/C++/B2026/cmake-build-debug/CMakeFiles/B2026.dir
+C:/Apps/WeclontCode/C++/B2026/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Apps/WeclontCode/C++/B2026/cmake-build-debug/CMakeFiles/rebuild_cache.dir
